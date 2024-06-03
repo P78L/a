@@ -1,1 +1,4 @@
-print("hi")
+(function() {
+    // Your code here
+    print("heh");
+})();
